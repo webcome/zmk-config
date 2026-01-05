@@ -25,7 +25,7 @@
     conditional_layers {
         compatible = "zmk,conditional-layers";
         tri_layer {
-            if-layers = <1 4>;
+            if-layers = <2 4>;
             then-layer = <3>;
         };
     };
